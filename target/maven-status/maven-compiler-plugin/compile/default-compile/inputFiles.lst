@@ -1,0 +1,11 @@
+C:\Users\davug\Downloads\HospitalManagementSystem_RoleDashboards (2)\backend\src\main\java\com\hospital\config\CorsConfig.java
+C:\Users\davug\Downloads\HospitalManagementSystem_RoleDashboards (2)\backend\src\main\java\com\hospital\controller\AppointmentController.java
+C:\Users\davug\Downloads\HospitalManagementSystem_RoleDashboards (2)\backend\src\main\java\com\hospital\controller\DoctorController.java
+C:\Users\davug\Downloads\HospitalManagementSystem_RoleDashboards (2)\backend\src\main\java\com\hospital\controller\PatientController.java
+C:\Users\davug\Downloads\HospitalManagementSystem_RoleDashboards (2)\backend\src\main\java\com\hospital\HospitalApplication.java
+C:\Users\davug\Downloads\HospitalManagementSystem_RoleDashboards (2)\backend\src\main\java\com\hospital\model\Appointment.java
+C:\Users\davug\Downloads\HospitalManagementSystem_RoleDashboards (2)\backend\src\main\java\com\hospital\model\Doctor.java
+C:\Users\davug\Downloads\HospitalManagementSystem_RoleDashboards (2)\backend\src\main\java\com\hospital\model\Patient.java
+C:\Users\davug\Downloads\HospitalManagementSystem_RoleDashboards (2)\backend\src\main\java\com\hospital\repository\AppointmentRepository.java
+C:\Users\davug\Downloads\HospitalManagementSystem_RoleDashboards (2)\backend\src\main\java\com\hospital\repository\DoctorRepository.java
+C:\Users\davug\Downloads\HospitalManagementSystem_RoleDashboards (2)\backend\src\main\java\com\hospital\repository\PatientRepository.java
